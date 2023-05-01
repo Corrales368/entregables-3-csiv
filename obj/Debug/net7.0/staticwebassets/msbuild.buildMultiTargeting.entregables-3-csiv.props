@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\entregables-3-csiv.props" />
+</Project>

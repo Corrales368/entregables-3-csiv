@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\entregables-3-csiv.props" />
+</Project>
